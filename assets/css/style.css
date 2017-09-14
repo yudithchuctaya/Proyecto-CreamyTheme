@@ -67,8 +67,8 @@ nav.navbar {
   text-align: center;
 }
 #seccion-1 img{
-	width: 100%;
-	height: 300px;
+	width: 80%;
+	height: 280px;
 	margin-top: 30px;
 }
 
@@ -76,23 +76,40 @@ nav.navbar {
 
 #seccion-2 {
     width: 100%;
-	height: 300px;
+	height: 400px;
     background:#da2c38; 
 }
 #seccion-2 h1,p{
 	color: #f4f0bb;
     text-align:center;
+    margin-top: 60px;
 }
 /*================================================CUARTA SECCION*/
 
 #seccion-3{
 	width: 100%;
-	height: 240px;
+	height: 350px;
     background: #f4f0bb;
-
+    text-align: center;
 }
-#seccion-3 p{
+#seccion-3 p {
 	color: #da2c38;
+	text-align: center;
+}
+#seccion-3 h1 {
+	color: #da2c38;
+	text-align: center;
+}
+.glyphicon {
+	margin-top: 30px;
+	font-size: 80px;
+	color: #da2c38;
+}
+.icon{
+		font-size: 90px;
+		background-position: center;
+		color: #da2c38;
+		margin-top: 5px;
 }
 
 /*================================================CUARTA SECCION*/
@@ -101,6 +118,7 @@ footer{
 	height: 50px;
 	background:#da2c38; 
     color: #f4f0bb
+
 }
 
 
